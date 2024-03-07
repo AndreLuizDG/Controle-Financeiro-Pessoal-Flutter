@@ -1,5 +1,2 @@
-# Define a linguagem principal do repositório como Flutter
-linguist-language = Flutter
-
-# Define a linguagem do README como Markdown
-README.md linguist-language = Markdown
+# Auto detect text files and perform LF normalization
+* text=auto
