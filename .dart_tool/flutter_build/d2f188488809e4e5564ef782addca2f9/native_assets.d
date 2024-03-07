@@ -1,1 +1,0 @@
- C:\\src\\despesas_app\\.dart_tool\\flutter_build\\d2f188488809e4e5564ef782addca2f9\\native_assets.yaml: 
